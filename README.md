@@ -1,1 +1,1 @@
-"# Shopify-Fall2022-Vidhi-Shah" 
+# Shopify Digital Design Challenge - Fall 2022 
